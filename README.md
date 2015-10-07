@@ -52,4 +52,5 @@ Nice to meet you. Sunyanan Choochotkaew desu.
 * 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
 * 長谷川研の西山です。
-* 長谷川研究室の [@gotooon](https://github.com/gotooon)です！
+* 村田研 @k-ya です。
+* 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
