@@ -71,7 +71,6 @@ Nice to meet you. Sunyanan Choochotkaew desu.
 長谷川研の西山です。
 
 
-* 村田研 @k-ya です。よろしくお願いします。
 =======
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 * 村田研の @h-miyakawa です。よろしくおねがいします。
