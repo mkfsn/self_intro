@@ -31,5 +31,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
-
+* 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
 * 渡辺研 @shusaku008です。[@shusaku008](https://github.com/shusaku008)
