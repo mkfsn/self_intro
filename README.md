@@ -32,6 +32,14 @@ I'm Toshihiko Aramaki
 * 東野研究室の@s-kojimaです。よろしくお願いします。
 
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
+村田研の @h-miyakawa です。よろしくおねがいします。
+* 村田研の @k-kawashima です。よろしくお願いします。
+
+長谷川研の西山です。
+
+Nice to meet you. Sunyanan Choochotkaew desu.
+
+
 * My name is Kosuke Taniguchi
 * Nice to meet you!
 * Yuki Koizumi
