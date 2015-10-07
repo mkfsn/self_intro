@@ -16,7 +16,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
 * Yuki Koizumi
-* 渡辺研の @IoriOtomo です。よろしくお願いします
+* 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw].
 * I'm Toshihiko Aramaki
 * 村田研の @h-miyakawa です。よろしくおねがいします。
