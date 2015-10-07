@@ -23,7 +23,7 @@ Hi, This is [@t-kitagw].
 
 I'm Toshihiko Aramaki
 
-* 東野研究室の@s-kojimaです。よろしくお願いします。
+* 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 
 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
