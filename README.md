@@ -6,7 +6,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
   これからよろしくおねがいします!
 * こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-* ○○研の @foobar です。△△の研究をしています。
 * こんにちは　@fbkclanna です。CD積み過ぎました
 * My name is Kosuke Taniguchi
 * Nice to meet you!
