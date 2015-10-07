@@ -4,5 +4,5 @@
 
 _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
-* こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
+* こんにちは [@gotooon](https://github.com/gotooon) です! 長谷川研究室の後藤裕哉と申します。
   これからよろしくおねがいします!
