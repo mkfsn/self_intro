@@ -5,8 +5,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
   これからよろしくおねがいします!
 * こんにちは @barbaz です。趣味はフットサルです。
+* こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * ○○研の @foobar です。△△の研究をしています。
-* 村田研の @k-kawashima です。ネットワークの研究をしています。
 * こんにちは　@fbkclanna です。CD積み過ぎました
 
 My name is Kosuke Taniguchi
@@ -28,4 +28,5 @@ I'm Toshihiko Aramaki
 
 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
-* 村田研の @k-kawashima です。よろしくおねがいします。
+
+長谷川研の西山です。
