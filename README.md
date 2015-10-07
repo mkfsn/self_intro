@@ -10,8 +10,11 @@ My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
+* こんにちは @yamatchan です．趣味は読書です．
 
 渡辺研の @IoriOtomo です。よろしくお願いします
+
+Hi, This is [@t-kitagw].
 
 I'm Toshihiko Aramaki
 
