@@ -10,7 +10,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * こんにちは　@fbkclanna です。CD積み過ぎました
-
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
@@ -22,7 +21,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
 * Yuki Koizumi
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
-* Hi, This is [@t-kitagw].
+* Hi, This is [@t-kitagw](https://github.com/t-kitagw).
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
 * 村田研 @k-ya です。
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
