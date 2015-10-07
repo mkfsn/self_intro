@@ -28,4 +28,5 @@ Hi, This is [@t-kitagw].
 I'm Toshihiko Aramaki
 
 村田研の @h-miyakawa です。よろしくおねがいします。
+* 村田研の @k-kawashima です。よろしくお願いします。
 >>>>>>> 461a70acfb17ad1ff243307632b752ddc3c1075d
