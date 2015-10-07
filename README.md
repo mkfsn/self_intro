@@ -5,11 +5,11 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 
 * こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
   これからよろしくおねがいします!
-* こんにちは @barbaz です。趣味はフットサルです。
 * こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * ○○研の @foobar です。△△の研究をしています。
 * こんにちは　@fbkclanna です。CD積み過ぎました
+<<<<<<< HEAD
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
 My name is Kosuke Taniguchi
 
@@ -51,6 +51,7 @@ I'm Toshihiko Aramaki
 * Hi, This is [@t-kitagw].
 * I'm Toshihiko Aramaki
 * 東野研究室の@s-kojimaです。よろしくお願いします。
+* 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 * 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
 
