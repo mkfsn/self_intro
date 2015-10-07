@@ -7,7 +7,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
   これからよろしくおねがいします!
 * こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-* こんにちは　@fbkclanna です。CD積み過ぎました
+* こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
 * My name is Kosuke Taniguchi
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
@@ -31,6 +31,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Hi, This is [@t-kitagw].
 * I'm [@ToshihikoAramaki](htps://github.com/ToshihikoAramaki)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
-* 村田研の @h-miyakawa です。よろしくおねがいします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
