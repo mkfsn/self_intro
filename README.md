@@ -26,11 +26,9 @@ I'm Toshihiko Aramaki
 
 * 東野研究室の@s-kojimaです。よろしくお願いします。
 
-村田研の @h-miyakawa です。よろしくおねがいします。
+* 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
-<<<<<<< HEAD
-*長谷川研究室の [@gotooon](https://github.com/gotooon)です！
-=======
 
 長谷川研の西山です。
->>>>>>> d1aca8341120f4ad5be4757dac3581b8d9611966
+
+*長谷川研究室の [@gotooon](https://github.com/gotooon)です！
