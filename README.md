@@ -19,7 +19,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 * My name is Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
 * 長谷川研の西山です。[@yyynishi](https://github.com/yyynishi)
-* Yuki Koizumi
+* Yuki Koizumi [@yuki-koizumi](https://github.com/yuki-koizumi)
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw](https://github.com/t-kitagw).
 * I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
