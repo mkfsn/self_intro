@@ -7,6 +7,34 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * こんにちは　@fbkclanna です。CD積み過ぎました
+<<<<<<< HEAD
+
+* My name is Kosuke Taniguchi
+Nice to meet you!
+
+Yuki Koizumi
+
+はじめまして村田研のむらかみです。
+
+* こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
+
+渡辺研の @IoriOtomo です。よろしくお願いします
+
+Hi, This is [@t-kitagw].
+
+I'm Toshihiko Aramaki
+
+* 東野研究室の@s-kojimaです。よろしくお願いします。
+
+村田研の @h-miyakawa です。よろしくおねがいします。
+* 村田研の @k-kawashima です。よろしくお願いします。
+
+長谷川研の西山です。
+
+Nice to meet you. Sunyanan Choochotkaew desu.
+
+
+=======
 * My name is Kosuke Taniguchi
 * Nice to meet you!
 * Yuki Koizumi
@@ -18,3 +46,4 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
 * 長谷川研の西山です。
+>>>>>>> a2221778dabc281df73db5c5c2cbfad39e375daf
