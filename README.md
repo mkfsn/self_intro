@@ -12,3 +12,5 @@ My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
+
+はじめまして村田研のむらかみです。
