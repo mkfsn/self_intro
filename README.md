@@ -12,6 +12,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * My name is Kosuke Taniguchi 
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
+* こんにちは [@k-nakahr](https://github.com/k-nakahr) です．趣味は読書です．
 
 * 東野研究室の@s-kojimaです。よろしくお願いします。
 
@@ -29,7 +30,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Yuki Koizumi
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw].
-* I'm [@ToshihikoAramaki](htps://github.com/ToshihikoAramaki)
+* I'm [@ToshihikoAramaki](https://github.com/ToshihikoAramaki)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
