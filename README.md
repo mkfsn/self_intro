@@ -9,14 +9,14 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * ○○研の @foobar です。△△の研究をしています。
 * こんにちは　@fbkclanna です。CD積み過ぎました
 
-My name is Kosuke Taniguchi
+* My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
 
-はじめまして村田研のむらかみです。
+はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 
-* こんにちは @yamatchan です．趣味は読書です．
+* こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 
 渡辺研の @IoriOtomo です。よろしくお願いします
 
@@ -28,4 +28,9 @@ I'm Toshihiko Aramaki
 
 村田研の @h-miyakawa です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
+<<<<<<< HEAD
 *長谷川研究室の [@gotooon](https://github.com/gotooon)です！
+=======
+
+長谷川研の西山です。
+>>>>>>> d1aca8341120f4ad5be4757dac3581b8d9611966
