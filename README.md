@@ -12,6 +12,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * My name is Kosuke Taniguchi 
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
+* こんにちは [@k-nakahr](https://github.com/k-nakahr) です．趣味は読書です．
 
 * 東野研究室の@s-kojimaです。よろしくお願いします。
 
