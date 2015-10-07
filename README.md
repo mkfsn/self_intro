@@ -37,7 +37,7 @@ I'm Toshihiko Aramaki
 
 長谷川研の西山です。
 
-Nice to meet you. Sunyanan Choochotkaew desu.
+* Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 
 
 * My name is Kosuke Taniguchi
