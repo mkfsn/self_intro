@@ -2,10 +2,8 @@
 
 _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
-
 * こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
   これからよろしくおねがいします!
-
 * こんにちは @barbaz です。趣味はフットサルです。
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
