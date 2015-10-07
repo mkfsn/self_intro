@@ -9,7 +9,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
-* My name is Kosuke Taniguchi
+* My name is Kosuke Taniguchi 
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
@@ -21,7 +21,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 
 
-* My name is Kosuke Taniguchi
+* My name is Kosuke Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
 * Nice to meet you!
 
 * 長谷川研の西山です。
