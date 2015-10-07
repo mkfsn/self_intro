@@ -30,3 +30,5 @@ I'm Toshihiko Aramaki
 * 村田研の @k-kawashima です。よろしくお願いします。
 
 長谷川研の西山です。
+
+長谷川研の後藤だ、よろしくな
