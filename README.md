@@ -27,7 +27,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 長谷川研の西山です。
 
 * Yuki Koizumi
-* 渡辺研の @IoriOtomo です。よろしくお願いします
+* 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw].
 * I'm [@ToshihikoAramaki](htps://github.com/ToshihikoAramaki)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
