@@ -14,4 +14,6 @@ Yuki Koizumi
 
 渡辺研の @IoriOtomo です。よろしくお願いします
 
+Hi, This is [@t-kitagw].
+
 I'm Toshihiko Aramaki
