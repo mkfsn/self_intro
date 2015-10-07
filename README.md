@@ -15,6 +15,10 @@ My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
+<<<<<<< HEAD
+
+はじめまして村田研のむらかみです。
+=======
 * こんにちは @yamatchan です．趣味は読書です．
 
 渡辺研の @IoriOtomo です。よろしくお願いします
