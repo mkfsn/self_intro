@@ -10,15 +10,13 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは　@fbkclanna です。CD積み過ぎました
 =======
 
-
 My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
-<<<<<<< HEAD
 
 はじめまして村田研のむらかみです。
-=======
+
 * こんにちは @yamatchan です．趣味は読書です．
 
 渡辺研の @IoriOtomo です。よろしくお願いします
@@ -27,5 +25,6 @@ Hi, This is [@t-kitagw].
 
 I'm Toshihiko Aramaki
 
+* 東野研究室の@s-kojimaです。よろしくお願いします。
+
 村田研の @h-miyakawa です。よろしくおねがいします。
->>>>>>> 461a70acfb17ad1ff243307632b752ddc3c1075d
