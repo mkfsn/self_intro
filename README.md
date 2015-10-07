@@ -31,6 +31,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Hi, This is [@t-kitagw].
 * I'm Toshihiko Aramaki
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
-* 村田研の @h-miyakawa です。よろしくおねがいします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
