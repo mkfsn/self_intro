@@ -7,14 +7,17 @@ _注意: このページは誰からでも見えるので、学籍番号など�
   これからよろしくおねがいします!
 * こんにちは [@mahiru00](https://github.com/mahiru00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-* こんにちは　@fbkclanna です。CD積み過ぎました
+* こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
-* My name is Kosuke Taniguchi
+* My name is Kosuke Taniguchi 
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-東野研究室の@s-sigaki(https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
+東野研究室の[@s-sigaki](https://github.com/s-sigaki)です。私の自己紹介消したやつ絶許
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
+* こんにちは [@k-nakahr](https://github.com/k-nakahr) です．趣味は読書です．
+
+* 東野研究室の@s-kojimaです。よろしくお願いします。
 
 長谷川研の西山です。
 
@@ -22,7 +25,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Nice to meet you. Sunyanan Choochotkaew desu. ([@sunya-ch](https://github.com/sunya-ch))
 
 
-* My name is Kosuke Taniguchi
+* My name is Kosuke Taniguchi [@tinygoodcheese](https://github.com/tinygoodcheese)
 * Nice to meet you!
 
 * 長谷川研の西山です。
@@ -30,8 +33,9 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * Yuki Koizumi
 * 渡辺研の [@IoriOtomo](https://github.com/IoriOtomo) です。よろしくお願いします
 * Hi, This is [@t-kitagw].
-* I'm Toshihiko Aramaki
+* I'm [@ToshihikoAramaki](htps://github.com/ToshihikoAramaki)
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
-* 村田研の @h-miyakawa です。よろしくおねがいします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
+
+*渡辺研 @shusaku008です。
