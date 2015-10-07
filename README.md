@@ -10,3 +10,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 
 My name is Kosuke Taniguchi
 Nice to meet you!
+
+Yuki Koizumi
