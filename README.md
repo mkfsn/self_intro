@@ -15,7 +15,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 * 村田研の [@h-miyakawa](https://github.com/h-miyakawa) です。よろしくおねがいします。
 * 村田研の @k-kawashima です。よろしくお願いします。
-* 長谷川研の西山です。
 * Yuki Koizumi
 * 渡辺研の @IoriOtomo です。よろしくお願いします
 * Hi, This is [@t-kitagw].
