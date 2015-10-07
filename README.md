@@ -6,3 +6,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 
 * こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
   これからよろしくおねがいします!
+
+
+My name is Kosuke Taniguchi
+Nice to meet you!
