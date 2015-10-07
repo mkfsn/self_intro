@@ -12,3 +12,5 @@ My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
+
+Hi, This is [@t-kitagw].
