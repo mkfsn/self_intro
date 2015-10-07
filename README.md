@@ -30,3 +30,7 @@ I'm Toshihiko Aramaki
 * 村田研の @k-kawashima です。よろしくお願いします。
 
 長谷川研の西山です。
+
+
+
+Nice to meet you. Sunyanan Choochotkaew desu.
