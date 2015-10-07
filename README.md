@@ -33,4 +33,9 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 東野研究室の[@s-kojima](https://github.com/s-kojima) です。よろしくお願いします。
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
+<<<<<<< HEAD
 * 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
+=======
+
+*渡辺研 @shusaku008です。
+>>>>>>> 8d019f8c586a63bebfa4ec5c66e74b4fbc40a7f5
