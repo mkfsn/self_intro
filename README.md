@@ -12,9 +12,9 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは　@fbkclanna です。CD積み過ぎました
 
 * My name is Kosuke Taniguchi
-Nice to meet you!
 
-Yuki Koizumi
+
+* Yuki Koizumi
 
 はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 
@@ -36,7 +36,14 @@ I'm Toshihiko Aramaki
 =======
 * 村田研の @k-kawashima です。よろしくお願いします。
 
+<<<<<<< HEAD
 長谷川研の西山です。
 >>>>>>> e7f355f6ecffe57f159ff6155de720316e260f71
+
+=======
+* 長谷川研の西山ですわ。
+
+長谷川研の後藤だ、よろしくな
+>>>>>>> 36711375ff6c2aa00579e9fefede80bcccadc727
 
 渡辺研究室の @AiharaMasahiko です。よろしくおねがいします。
