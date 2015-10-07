@@ -11,12 +11,17 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * こんにちは　@fbkclanna です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
 My name is Kosuke Taniguchi
+
+* My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
 
 はじめまして村田研のむらかみです。
 * こんにちは @yamatchan です．趣味は読書です．
+はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
+
+* こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 
 渡辺研の @IoriOtomo です。よろしくお願いします
 
