@@ -27,7 +27,7 @@ Yuki Koizumi
 
 Hi, This is [@t-kitagw].
 
-I'm Toshihiko Aramaki
+I'm [@ToshihikoAramaki](htps://github.com/ToshihikoAramaki)
 
 * 東野研究室の@s-kojimaです。よろしくお願いします。
 
