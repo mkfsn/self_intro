@@ -14,7 +14,7 @@ Nice to meet you!
 
 Yuki Koizumi
 
-はじめまして村田研のむらかみです。
+はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
 
