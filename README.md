@@ -13,4 +13,4 @@ Yuki Koizumi
 
 渡辺研の @IoriOtomo です。よろしくお願いします
 
-Iḿ Toshihiko Aramaki
+I'm Toshihiko Aramaki
