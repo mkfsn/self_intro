@@ -17,11 +17,11 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 
 My name is Kosuke Taniguchi
 * My name is Kosuke Taniguchi
-Nice to meet you!
 
-Yuki Koizumi
 
-はじめまして村田研のむらかみです。
+* Yuki Koizumi
+
+はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 
 * こんにちは @yamatchan です．趣味は読書です．
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
@@ -39,4 +39,8 @@ I'm Toshihiko Aramaki
 * 村田研の @k-kawashima です。よろしくお願いします。
 
 長谷川研の西山です。
+
+* 長谷川研の西山ですわ。
+
+長谷川研の後藤だ、よろしくな
 
