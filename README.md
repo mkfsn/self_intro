@@ -9,6 +9,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 My name is Kosuke Taniguchi
 Nice to meet you!
 
-* Hello Iḿ Toshihiko Aramaki !!
-* Iḿ Watanabe laboratoryś member.
-* I like camera.
+Yuki Koizumi
+
+渡辺研の @IoriOtomo です。よろしくお願いします
+
+Iḿ Toshihiko Aramaki
