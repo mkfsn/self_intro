@@ -8,6 +8,8 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * ○○研の @foobar です。△△の研究をしています。
 * 村田研の @k-kawashima です。ネットワークの研究をしています。
 * こんにちは　@fbkclanna です。CD積み過ぎました
+
+My name is Kosuke Taniguchi
 Nice to meet you!
 
 Yuki Koizumi
