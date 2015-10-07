@@ -6,7 +6,7 @@ _注意: このページは誰からでも見えるので、学籍番号など�
   これからよろしくおねがいします!
 * こんにちは [@mahiro00](https://github.com/mahiro00)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
-* こんにちは　@fbkclanna です。CD積み過ぎました
+* こんにちは　[@fbkclanna](https://github.com/fbkclanna) です。CD積み過ぎました
 * こんにちは [@ukatawagatik](https://github.com/ukatawagatik) です。趣味はラーメンです。
 * はじめまして村田研のむらかみ[@exp038](http://github.com/exp038)です。
 * こんにちは [@yamatchan](https://github.com/yamatchan) です．趣味は読書です．
