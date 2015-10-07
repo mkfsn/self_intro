@@ -4,5 +4,13 @@
 
 _注意: このページは誰からでも見えるので、学籍番号などの個人情報などは載せないでください_
 
-* 渡辺研の @IoriOtomo です。ビデオ伝送の研究をしています。
-* これからよろしくおねがいします!
+* こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
+  これからよろしくおねがいします!
+
+
+My name is Kosuke Taniguchi
+Nice to meet you!
+
+Yuki Koizumi
+
+渡辺研の @IoriOtomo です。よろしくお願いします
