@@ -6,3 +6,6 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 
 * こんにちは [@yasuhito](https://github.com/yasuhito) です! Trema を開発しています。
   これからよろしくおねがいします!
+
+* こんにちは [@a-nakanishi](https://github.com/a-nakanishi) です!
+  これからよろしくおねがいします!
