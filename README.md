@@ -32,10 +32,5 @@ _注意: このページは誰からでも見えるので、学籍番号など�
 * 長谷川研の西山です。
 * 村田研 @k-ya です。
 * 長谷川研究室の [@gotooon](https://github.com/gotooon)です。
-<<<<<<< HEAD
-
-*渡辺研 @shusaku008です。
-* 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
-=======
 * 渡辺研 @shusaku008です。[@shusaku008](https://github.com/shusaku008)
->>>>>>> 54c7070e0135ebf4c8270594ea9d7e5f9afae512
+* 渡辺研の [@AiharaMasahiko](https://github.com/AiharaMasahiko) です。よろしくお願いします。
